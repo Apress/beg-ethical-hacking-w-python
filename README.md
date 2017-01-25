@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Beginning Ethical Hacking with Python*](http://www.apress.com/9781484225400) by Sinha, Sanjib (Apress, 2017).
+This repository accompanies [*Beginning Ethical Hacking with Python*](http://www.apress.com/9781484225400) by Sanjib Sinha (Apress, 2017).
 
 ![Cover image](9781484225400.jpg)
 
